@@ -179,3 +179,7 @@ form {
   border-radius: 2px;
   cursor: pointer;
 }
+
+#title {
+  font-size: 3em;
+}
